@@ -1,4 +1,4 @@
-\## Pierwsza strona w HTML
+# Pierwsza strona w HTML
 
 
 
@@ -6,19 +6,19 @@ Pierwsze ruchy przy tworzeniu stron www.
 
 
 
-\### Czego się nauczyłem
+## Czego się nauczyłem
 
 
 
-\- Działania <head>, <body>
+- Działania <head>, <body>
 
 
 
-\- Podstawowe komendy, znaczniki np: <meta> <title> <h1..h6> <a> <br> target, title, width, height, src, href
+- Podstawowe komendy, znaczniki np: <meta> <title> <h1..h6> <a> <br> target, title, width, height, src, href
 
 
 
-\- Podstawy działania HTML
+- Podstawy działania HTML
 
 
 
