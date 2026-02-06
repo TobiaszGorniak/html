@@ -1,8 +1,8 @@
-\# HTML Portfolio
+# HTML Portfolio
 
 Repozytorium zawiera projekty i ćwiczenia wykonywane w HTML w trakcie nauki.
 
-\## Zakres
+## Zakres
 
-\- Podstawy języka HTML
+- Podstawy języka HTML
 
